@@ -9,3 +9,4 @@ It uses random forest regressor algorithm for building the model.The frontent of
 
 ## Ouput
 
+<img width="1705" alt="SIMS Portal Landing Page" src="flask_app_ss.png">
